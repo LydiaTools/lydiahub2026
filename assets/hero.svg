@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">LydiaHub</title>
+  <desc id="desc">An idea takes a simple path toward a useful tool.</desc>
+  <rect width="1200" height="320" rx="20" fill="#F6F1E8"/>
+  <path d="M0 265H1200" stroke="#D5CABE"/>
+  <text x="66" y="76" fill="#9C4A34" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4">LYDIAHUB / INDEPENDENT WORK</text>
+  <text x="62" y="161" fill="#18352F" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Small tools. Real use.</text>
+  <text x="66" y="209" fill="#526660" font-family="Arial, Helvetica, sans-serif" font-size="22">From a real question to something useful.</text>
+  <g transform="translate(846 65)" fill="none" stroke="#23453B" stroke-width="3">
+    <path d="M27 154C80 154 63 76 137 76S207 154 282 154" stroke="#E46C49" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="27" cy="154" r="16" fill="#F6F1E8"/>
+    <circle cx="137" cy="76" r="16" fill="#F6F1E8"/>
+    <circle cx="282" cy="154" r="16" fill="#F6F1E8"/>
+    <path d="M18 154h18M137 67v18M273 154h18" stroke="#23453B" stroke-width="2" stroke-linecap="round"/>
+    <text x="6" y="200" fill="#526660" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15">question</text>
+    <text x="119" y="38" fill="#526660" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15">build</text>
+    <text x="261" y="200" fill="#526660" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15">use</text>
+  </g>
+</svg>
