@@ -61,7 +61,7 @@
 
 询盘多起来，最费力的往往是重新弄清：这是谁，已经知道什么，还缺什么，今天应该先跟进哪一个。
 
-从自己已有的询盘表开始，核对列名、导入 CSV / JSON，再看分级、缺失证据和下一步。不同客户可以分开保存，重要批次可以导出备份；项目里有虚构样例和英文上手说明。
+我把自己在外贸业务中积累的询盘筛选、客户背调和跟进方法，整理成这套工具。从已有询盘表开始，核对列名、导入 CSV / JSON，再看客户分级、待补信息和下一步跟进。不同客户可以分开管理，重要批次可以导出备份。
 
 **[查看源码与真实运行截图](https://github.com/lydiahub19921013/lydia-foreign-trade-system)** · [English getting started](https://github.com/lydiahub19921013/lydia-foreign-trade-system/blob/main/docs/README.en.md)
 
