@@ -8,7 +8,9 @@
 
 把真实工作里反复遇到的卡点，做成可以自己上手的小工具。
 
-[Choose by your task](#start-with-your-task) · [Getting started](GETTING-STARTED.md) · [Team work](#team-collaborations)
+[Choose by your task](#start-with-your-task) · [Getting started](GETTING-STARTED.md) · [BFTools team products](https://github.com/mercedesbestsupplier-maker)
+
+我参与的窗口排布、内容生产和 Codex 界面工具，集中在 [BFTools 团队主页](https://github.com/mercedesbestsupplier-maker#products)。
 
 </div>
 
