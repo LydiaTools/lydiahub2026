@@ -9,7 +9,7 @@
 | 灵感、待办总是在切换应用时丢掉 | 桌面流转台 | [Mac / Windows 领取入口](https://afdian.com/album/1f24622aa83511f184a452540025c377) |
 | 想先看真实 Codex 界面，再选择皮肤 | Codex 皮肤工坊 | [团队项目页](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 | 做选题时总要重复找资料、筛方向、整理结果 | 小燃选题员工 | [介绍与领取](https://afdian.com/a/lydiahub2026) |
-| 询盘在表格里，想看分级、缺失证据和下一步 | Lydia 外贸系统 | [源码、虚构样例与本地启动](https://github.com/lydiahub19921013/lydia-foreign-trade-system) |
+| 询盘在表格里，想看分级、缺失证据和下一步 | Lydia 外贸系统 | [功能介绍与使用步骤](https://github.com/lydiahub19921013/lydia-foreign-trade-system) |
 | 庭院材料下单前，想检查尺寸、体积和袋数 | CoverCalc Pro | [在线计算](https://covercalcpro.com/#calculator) / [本机检查器](https://github.com/lydiahub19921013/covercalcpro-landscape-quantity-kit/blob/main/docs/TRY-IT.md) |
 | 一屏多开 Windows 窗口，想保存常用排布 | BFTiles | [产品介绍与发布状态](https://github.com/mercedesbestsupplier-maker/BFTiles) |
 
