@@ -109,7 +109,9 @@ Project links retain their actual repository addresses. This profile is the main
 
 ## Find me online
 
-[X · MA HIBBERD](https://x.com/LRosamarina) · [TikTok · @covercalcpro](https://www.tiktok.com/@covercalcpro) · [CoverCalc Pro](https://covercalcpro.com/) · [BFTOOLS team](https://github.com/mercedesbestsupplier-maker)
+[Facebook · Mercedes Costa](https://www.facebook.com/people/Mercedes-Costa/100074622692401/) · [Quora · MercedesCosta](https://www.quora.com/profile/MercedesCosta) · [TikTok · @covercalcpro](https://www.tiktok.com/@covercalcpro) · [X · MA HIBBERD](https://x.com/LRosamarina)
+
+[CoverCalc Pro](https://covercalcpro.com/) · [BFTOOLS team](https://github.com/mercedesbestsupplier-maker)
 
 ---
 
