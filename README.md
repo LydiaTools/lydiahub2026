@@ -1,122 +1,116 @@
+<a id="english"></a>
+
 <div align="center">
 
 # LydiaHub
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="LydiaHub · 把想到的，做成做得到的" width="100%">
+  <img src="assets/hero.svg" alt="LydiaHub · Turn a real sticking point into something useful" width="100%">
 </picture>
 
-> **我把真实工作里那些“明明可以少受一遍罪”的卡点，做成真能用起来的小工具。**
+> **I turn those “surely I shouldn't have to struggle with this again” moments at work into small tools you can actually use.**
 >
-> 先解决一件具体的事，再根据真实反馈继续迭代。
+> Start with one specific problem. Build something usable. Improve it with real feedback.
 
-[![Free tools](https://img.shields.io/badge/基础工具-免费领取-2ea44f?style=flat-square)](https://afdian.com/a/lydiahub2026)
-[![Local first](https://img.shields.io/badge/Local--first-本地优先-6f42c1?style=flat-square)](#我做产品时看重的事)
-[![Latest release](https://img.shields.io/badge/公开下载-说人话_v0.9.0-0969da?style=flat-square)](https://github.com/lydiahub19921013/shuorenhua/releases/latest)
+[![Free tools](https://img.shields.io/badge/Basic_tools-Free-2ea44f?style=flat-square)](https://afdian.com/a/lydiahub2026)
+[![Local first](https://img.shields.io/badge/Local--first-By_design-6f42c1?style=flat-square)](#what-matters-to-me)
+[![Latest release](https://img.shields.io/badge/Download-Say_It_Plainly_v0.9.0-0969da?style=flat-square)](https://github.com/lydiahub19921013/shuorenhua/releases/latest)
 
-[按问题找工具](#按你现在卡住的事来选) · [下载与内测](#下载与内测) · [English](#english)
+[Find your tool](#choose-by-the-problem) · [Downloads & early access](#downloads--early-access) · [Find me online](#find-me-online)
 
-我参与的团队工具：[BFTools 产品集合](https://github.com/mercedesbestsupplier-maker#products)
+Team projects I contribute to: [BFTOOLS](https://github.com/mercedesbestsupplier-maker#products)
 
 </div>
 
 ---
 
-## 按你现在卡住的事来选
+<a id="按你现在卡住的事来选"></a>
 
-| 你现在正烦什么 | 工具 | 它能帮你得到什么 | 从哪里开始 |
+## Choose by the problem
+
+| What is getting in your way? | Tool | What it helps you do | Start here |
 | --- | --- | --- | --- |
-| 对方说了一大段，每个字都认识，还是不知道到底要我干什么 | [说人话](https://github.com/lydiahub19921013/shuorenhua) | 拆出行动和确认点，再按你的真实意思写成能发的回复 | [macOS v0.9.0 下载](https://github.com/lydiahub19921013/shuorenhua/releases/latest) |
-| 客户一句“顺便改一下”，做着做着就说不清到底多了多少活 | [别返工](https://github.com/lydiahub19921013/lydiahub19921013/blob/main/products/biefangong/README.md) | 对照已经说定的范围，挑出新增、变更和没说清的地方 | macOS v0.1.0，内测中 |
-| 灵感和待办总在切换应用时丢掉 | [桌面流转台](https://afdian.com/album/1f24622aa83511f184a452540025c377) | 先在桌面接住，再保存为 Markdown，按需进入 Obsidian / Codex | Mac / Windows，查看领取页 |
-| 每天盯着 Codex 原生界面，想换成更像自己的工作台 | [Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | 先看真实界面，再选择适合自己的皮肤 | 团队共创，预览与领取 |
-| 每次做选题都要重新找资料、筛方向、整理结果 | [小燃选题员工](https://afdian.com/a/lydiahub2026) | 把重复的选题步骤交给固定流程，留下真正需要人判断的部分 | 查看介绍与领取 |
-| 询盘散在表格里，不知道先跟谁、还缺什么证据 | [Lydia 外贸系统](https://github.com/lydiahub19921013/lydia-foreign-trade-system) | 看清分级、缺失证据和下一步，再由人确认跟进 | 开源，本地运行 |
-| 买覆盖物、土壤或堆肥前，想把尺寸、体积和袋数算清楚 | [CoverCalc Pro](https://covercalcpro.com/#calculator) | 把量出的尺寸换成体积和袋数，下单前再核对一次 | 在线使用 / [开源工具包](https://github.com/lydiahub19921013/covercalcpro-landscape-quantity-kit) |
+| You understand every word of a long message, but still don't know what you're being asked to do | [Say It Plainly](https://github.com/lydiahub19921013/shuorenhua/blob/main/README.en.md) | Identify actions and questions, then draft a reply that reflects what you actually mean | [macOS v0.9.0 download](https://github.com/lydiahub19921013/shuorenhua/releases/latest); Chinese interface |
+| A client's “small change” keeps growing, and nobody can say how much extra work it adds | [Scope Check](https://github.com/lydiahub19921013/lydiahub19921013/blob/main/products/biefangong/README.md) | Compare a new request with the agreed scope; spot additions, changes, and unanswered questions | macOS v0.1.0; private testing; Chinese interface |
+| Ideas and tasks disappear while you switch between apps | [Desktop Flow](https://afdian.com/album/1f24622aa83511f184a452540025c377) | Catch them on your desktop, save as Markdown, and send them into Obsidian or Codex when useful | Mac / Windows; see the access page |
+| You spend hours in Codex and want a workspace that feels more like yours | [Codex Skin Workshop](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | Compare real interfaces before choosing a skin | Teammate's original app; my enhancements and skin collection |
+| Every new content topic sends you back through the same research and sorting steps | [Xiaoran Topic Assistant](https://afdian.com/a/lydiahub2026) | Put repeated research steps into a workflow, leaving the judgment to you | See the introduction and access options |
+| Inquiries sit in a spreadsheet, with no clear priority or next step | [Lydia Foreign Trade System](https://github.com/lydiahub19921013/lydia-foreign-trade-system/blob/main/docs/README.en.md) | Review inquiry grades, missing evidence, and next actions before confirming follow-up | Open-source; local setup |
+| You want to check dimensions, volume, and bag counts before buying mulch, soil, or compost | [CoverCalc Pro](https://covercalcpro.com/#calculator) | Turn measured dimensions into volume and bag counts, then check before ordering | Live calculator / [open-source toolkit](https://github.com/lydiahub19921013/covercalcpro-landscape-quantity-kit) |
 
-第一次来，可以直接打开[上手页](GETTING-STARTED.md)。不用先研究技术名词，按自己正在卡住的事选一个就行。
+New here? Open the [getting-started page](GETTING-STARTED.md). Pick the problem you recognize and try one tool.
 
-## 从一个让人烦的瞬间开始
+## Start with a moment that frustrates you
 
-### 说人话 · 先听懂，再按你的意思回
+### Say It Plainly · Understand the message, then reply in your own words
 
-“围绕用户价值找抓手，尽快形成闭环。”每个字都认识，可真正难的是：先做哪件，做到什么程度，怎么回才不显得没听懂。
+“Find a lever for user value and close the loop quickly.” You know the words. The hard part is figuring out what to do first, how far to take it, and how to reply without pretending the request was clear.
 
-「说人话」会把原话拆成真正要做的事和最该确认的坑，再按照你本人的意思组织回复。生成内容如果偷偷多答应了时间、范围、责任或保证，会先拦住；草稿由你确认后发送。
+Say It Plainly breaks a message into actions and the questions worth checking, then drafts a reply around what you actually mean. It checks for added promises about timing, scope, responsibility, or guarantees. You review the draft before sending it.
 
-**[查看产品与下载](https://github.com/lydiahub19921013/shuorenhua)** · [English overview](https://github.com/lydiahub19921013/shuorenhua/blob/main/README.en.md)
+**[Product and downloads](https://github.com/lydiahub19921013/shuorenhua)** · [English overview](https://github.com/lydiahub19921013/shuorenhua/blob/main/README.en.md)
 
-### 别返工 · 先把这次到底多做什么说清楚
+### Scope Check · Make the extra work clear before doing it
 
-客户嘴里可能只是“移动端也顺便做一下”，落到接单者这里，却是页面、接口、测试和交付时间一起变化。
+To a client, it may be “just add a mobile version.” For the person doing the work, it can change the pages, APIs, tests, and delivery date together.
 
-「别返工」会保存每个项目当前已经确认的约定。客户再发新消息时，把整段贴进去，它会挑出后来加的、原约定变了的、还不能直接开工的内容，并写出一段不吵架、也不先答应的确认回复。
+Scope Check keeps the agreement currently confirmed for each project. Paste a new client message and it highlights additions, changes to the agreement, and details that need clarification before work starts. It also drafts a calm confirmation reply that doesn't commit you in advance.
 
-<img src="https://raw.githubusercontent.com/lydiahub19921013/lydiahub19921013/main/assets/biefangong-v0.1.0.png" alt="别返工 v0.1.0 真实运行界面" width="520">
+<img src="https://raw.githubusercontent.com/lydiahub19921013/lydiahub19921013/main/assets/biefangong-v0.1.0.png" alt="Scope Check v0.1.0 running in its current Chinese interface" width="520">
 
-**[查看功能与内测状态](https://github.com/lydiahub19921013/lydiahub19921013/blob/main/products/biefangong/README.md)**
+**[Features and testing status](https://github.com/lydiahub19921013/lydiahub19921013/blob/main/products/biefangong/README.md)**
 
-### Lydia 外贸系统 · 先把询盘分清，再决定跟进
+### Lydia Foreign Trade System · Sort the inquiries before deciding who to follow up with
 
-询盘多起来，最费力的往往是重新弄清：这是谁，已经知道什么，还缺什么，今天应该先跟进哪一个。
+As inquiries pile up, much of the effort goes into reconstructing the basics: who this is, what you already know, what evidence is missing, and who needs attention today.
 
-我把自己在外贸业务中积累的询盘筛选、客户背调和跟进方法，整理成这套工具。从已有询盘表开始，核对列名、导入 CSV / JSON，再看客户分级、待补信息和下一步跟进。不同客户可以分开管理，重要批次可以导出备份。
+I brought my experience in inquiry screening, customer research, and follow-up into this tool. Start with an existing inquiry sheet, check the columns, import CSV or JSON, then review customer grades, missing information, and next actions. Keep different customer groups separate and export important batches as backups.
 
-**[查看源码与真实运行截图](https://github.com/lydiahub19921013/lydia-foreign-trade-system)** · [English getting started](https://github.com/lydiahub19921013/lydia-foreign-trade-system/blob/main/docs/README.en.md)
+**[Source and real screenshots](https://github.com/lydiahub19921013/lydia-foreign-trade-system)** · [English getting started](https://github.com/lydiahub19921013/lydia-foreign-trade-system/blob/main/docs/README.en.md)
 
-### CoverCalc Pro · 下单前，把用量算清楚
+### CoverCalc Pro · Check the quantities before placing an order
 
-量出的长、宽和深度，与袋子上印的体积，是两种不同的信息。尺寸算空间，包装规格算袋数；先把单位和规格对齐，采购清单才有依据。
+Measured length, width, and depth tell you how much space to fill. The volume printed on a bag tells you how many bags to buy. Align the units and pack size first, and your shopping list has something solid behind it.
 
-在线工具可以直接在浏览器里使用。想检查公式、字段和覆盖率表，可以看开源工具包；[Mulch Coverage Reference](https://github.com/lydiahub2026/mulch-coverage-reference)也提供可复算的覆盖率参考。
+Use the calculator directly in your browser. To inspect formulas, fields, and coverage tables, open the public toolkit. [Mulch Coverage Reference](https://github.com/lydiahub2026/mulch-coverage-reference) also provides calculations you can reproduce.
 
-**[打开在线计算](https://covercalcpro.com/#calculator)** · [查看开源工具包](https://github.com/lydiahub19921013/covercalcpro-landscape-quantity-kit)
+**[Open the calculator](https://covercalcpro.com/#calculator)** · [View the open-source toolkit](https://github.com/lydiahub19921013/covercalcpro-landscape-quantity-kit)
 
-## 和毕方团队一起做的工具
+## Tools I work on with the BFTOOLS team
 
-有些卡点，需要和有经验的技术团队一起解决。我参与产品方向和海外用户体验，团队负责各自的技术实现与维护。
+Some problems need an experienced technical team. I contribute product direction, user experience, and public product pages. The team develops and maintains its own products; my current team focus is promoting the content-operations tool.
 
-- **[BFTiles 窗口排布](https://github.com/mercedesbestsupplier-maker/BFTiles)**：让一屏多开的 Windows 窗口更有秩序，保存布局，下次继续用。公开产品介绍已上线，GitHub 安装包仍在验收。
-- **[毕方内容生产助手](https://github.com/mercedesbestsupplier-maker#products)**：先找对标，再选择内容生产的路径；CSDN 技术文章、百家号长文章、小红书图文笔记分别处理。Windows 完整流程仍在验收。
-- **[Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)**：每天都在用的工作界面，也可以更像自己。项目页有真实运行预览和领取入口。
+- **[BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles)** arranges multiple Windows windows and saves a layout for next time. The public product guide is available; the GitHub installer is still awaiting validation.
+- **[Bifang Content Production Assistant](https://github.com/mercedesbestsupplier-maker#products)** starts with reference research, then provides separate production paths for technical articles, long-form articles, and image-and-text notes. The complete Windows workflow is still being validated.
+- **[Codex Skin Workshop](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)** makes a daily workspace feel more personal. A BFTOOLS teammate developed the original application. I contribute feature enhancements and a collection of several hundred skins. The project page includes real previews and access details.
 
-**[去 BFTools 主页，按工作场景选产品](https://github.com/mercedesbestsupplier-maker#products)**
+**[Explore the BFTOOLS team products](https://github.com/mercedesbestsupplier-maker#products)**
 
-## 我做产品时看重的事
+<a id="我做产品时看重的事"></a>
 
-- **先有真实任务**：从自己和用户反复遇到的问题开始，先把一件具体的事做好。
-- **让人保留决定权**：回复由你确认，项目约定由你决定，工具帮你把要判断的事情看清楚。
-- **把获取方式说清楚**：能下载的给版本和平台，内测中的写明状态，开源项目给上手步骤。
+## What matters to me
 
-我还在打磨「回声」和 AI 成本副驾驶，也在试[复古电话与 Codex 的连接](https://github.com/lydiahub19921013/retro-codex-phone)。等它们能完整走完一条真实任务，再把入口补到这里。
+- **Start with a real task.** Work on a problem I or my users keep encountering, and make one specific thing work well first.
+- **Keep the decisions yours.** You approve replies and project agreements. The tool helps you see what needs deciding.
+- **Be clear about access.** Downloads list versions and platforms; testing projects state their status; open-source tools include setup steps.
 
-## 下载与内测
+I'm also working on Echo and an AI Cost Copilot, and trying a [retro telephone connected to Codex](https://github.com/lydiahub19921013/retro-codex-phone). I'll add their entry points when they can complete a real task from start to finish.
 
-[GitHub：说人话下载](https://github.com/lydiahub19921013/shuorenhua/releases/latest) · [爱发电：工具领取与更新](https://afdian.com/a/lydiahub2026) · [飞书：免费产品领取中心](https://jcnrbes3t04e.feishu.cn/drive/folder/VRnafPFVDlcNXrdtpSwcWaWFnEj)
+<a id="下载与内测"></a>
 
-基础工具会继续免费分享。想参加「别返工」内测，或需要定制、部署适配、数据迁移和长期维护，可以微信联系 **`lydiahub2026`**。Bug 和功能建议可以直接在对应项目提交 Issue。
+## Downloads & early access
 
-项目链接目前保留其实际仓库地址；这里是我的个人作品总入口。
+[GitHub: Say It Plainly downloads](https://github.com/lydiahub19921013/shuorenhua/releases/latest) · [Afdian: tools and updates](https://afdian.com/a/lydiahub2026) · [Feishu: free product collection](https://jcnrbes3t04e.feishu.cn/drive/folder/VRnafPFVDlcNXrdtpSwcWaWFnEj)
 
-## English
+Basic tools will continue to be shared for free. For Scope Check testing, custom work, deployment help, data migration, or ongoing maintenance, contact me on WeChat: **`lydiahub2026`**. Bugs and feature ideas can go into the relevant project's Issues.
 
-<details>
-<summary>Small tools, built around a moment you recognize</summary>
+Project links retain their actual repository addresses. This profile is the main entrance to my personal work. Some linked tools and distribution pages currently use Chinese; each project page states its platform and availability.
 
-I make small tools for the moments at work that make you think, “Surely I shouldn't have to struggle with this again.” A long message you cannot act on. A “small change” that quietly grows into another round of work. An inquiry sheet that gives you no clear next step.
+## Find me online
 
-I start with one specific problem, build something usable, and improve it with real feedback.
-
-- **[Say It Plainly](https://github.com/lydiahub19921013/shuorenhua/blob/main/README.en.md)** helps you understand a message and review a reply in your own words. Chinese interface; macOS release available.
-- **[Lydia Foreign Trade System](https://github.com/lydiahub19921013/lydia-foreign-trade-system/blob/main/docs/README.en.md)** helps you work through existing inquiries using evidence and a clear next action. Open-source; local setup.
-- **[CoverCalc Pro](https://covercalcpro.com/)** helps you calculate landscape material quantities before buying. Live website, with a public formula toolkit.
-- **[BFTools](https://github.com/mercedesbestsupplier-maker)** is the team I collaborate with on Windows window layouts, content production, and Codex workspace tools.
-
-Each project page explains its current platform and how to get started. For custom work or ongoing maintenance, contact me on WeChat: `lydiahub2026`.
-
-</details>
+[X · MA HIBBERD](https://x.com/LRosamarina) · [TikTok · @covercalcpro](https://www.tiktok.com/@covercalcpro) · [CoverCalc Pro](https://covercalcpro.com/) · [BFTOOLS team](https://github.com/mercedesbestsupplier-maker)
 
 ---
 
-**好工具不是替你生活，而是帮你少猜一点、少返工一点，把力气留给真正需要你决定的事。**
+**A good tool helps you guess less, redo less, and save your energy for the decisions that need you.**
