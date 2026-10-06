@@ -69,7 +69,7 @@ The demo uses deterministic host code and makes no model calls. Muse, Grok, and 
 | You want to check dimensions, volume, and bag counts before buying landscape materials | [CoverCalc Pro toolkit](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit) | Check rectangular or circular volumes, formulas, pack sizes, and shopping quantities | MIT; browser checker / [live calculator](https://covercalcpro.com/#calculator) |
 | A browser agent times out, loses its place, or submits twice, and you can't tell what happened | [Browser Agent Blueprint](https://github.com/LydiaTools/browser-agent-blueprint) | Reuse prompt modules and run a real local browser against a synthetic page to inspect checkpoints, risk gates, and resume boundaries | MIT; 12 modules, 4 workflow templates, 6 demo scenarios; model integrations not tested |
 | You understand every word of a long message, but still don't know what you're being asked to do | [Say It Plainly](https://github.com/LydiaTools/shuorenhua/blob/main/README.en.md) | Identify actions and questions, then draft a reply that reflects what you actually mean | macOS v0.9.0; download available; Chinese interface |
-| A client's “small change” keeps growing, and nobody can say how much extra work it adds | [Scope Check](products/biefangong/README.md) | Compare a new request with the agreed scope; spot additions, changes, and unanswered questions | macOS v0.1.0; private testing; Chinese interface |
+| A client's “small change” keeps growing, and nobody can say how much extra work it adds | [Scope Check](https://github.com/LydiaTools/LydiaTools/blob/main/products/biefangong/README.md) | Compare a new request with the agreed scope; spot additions, changes, and unanswered questions | macOS v0.1.0; private testing; Chinese interface |
 | Ideas and tasks disappear while you switch between apps | [Desktop Flow](https://afdian.com/album/1f24622aa83511f184a452540025c377) | Catch them on your desktop, save as Markdown, and connect to Obsidian or Codex when useful | macOS v1.0.0; Windows v1.0.3 |
 | You spend hours in Codex and want a workspace that feels more like yours | [Codex Skin Workshop](https://afdian.com/album/26288eaca83511f19cc352540025c377) | Search, preview, install, switch, and restore skins | macOS; free access; original app by [@luhaozwork](https://github.com/luhaozwork), my enhancements and skins |
 | Every new content topic sends you back through the same research and sorting steps | [Xiaoran Topic Assistant](https://afdian.com/a/lydiahub2026) | Put repeated research steps into a workflow, leaving the judgment to you | Released; see the access page |
@@ -105,7 +105,7 @@ Scope Check keeps the agreement currently confirmed for each project. Paste a ne
 
 *v0.1.0, Chinese interface. Fictional scope-change example; the saved agreement is the comparison baseline.*
 
-**[Features and testing status](products/biefangong/README.md)**
+**[Features and testing status](https://github.com/LydiaTools/LydiaTools/blob/main/products/biefangong/README.md)**
 
 ---
 
