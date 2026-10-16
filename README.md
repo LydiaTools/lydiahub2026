@@ -19,7 +19,7 @@
 
 [按问题找工具](#按你现在卡住的事来选) · [下载与内测](#下载与内测) · [English](#english)
 
-我参与的团队工具：[BFTools 产品集合](https://github.com/mercedesbestsupplier-maker#products)
+我也负责毕方 BFTOOLS 公司产品的推广。公司项目的开发、维护和发布由公司团队负责。
 
 </div>
 
@@ -32,7 +32,7 @@
 | 对方说了一大段，每个字都认识，还是不知道到底要我干什么 | [说人话](https://github.com/LydiaTools/shuorenhua) | 拆出行动和确认点，再按你的真实意思写成能发的回复 | [macOS v0.9.0 下载](https://github.com/LydiaTools/shuorenhua/releases/latest) |
 | 客户一句“顺便改一下”，做着做着就说不清到底多了多少活 | [别返工](https://github.com/LydiaTools/LydiaTools/blob/main/products/biefangong/README.md) | 对照已经说定的范围，挑出新增、变更和没说清的地方 | macOS v0.1.0，内测中 |
 | 灵感和待办总在切换应用时丢掉 | [桌面流转台](https://afdian.com/album/1f24622aa83511f184a452540025c377) | 先在桌面接住，再保存为 Markdown，按需进入 Obsidian / Codex | Mac / Windows，查看领取页 |
-| 每天盯着 Codex 原生界面，想换成更像自己的工作台 | [Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | 先看真实界面，再选择适合自己的皮肤 | 团队共创，预览与领取 |
+| 每天盯着 Codex 原生界面，想换成更像自己的工作台 | Codex 皮肤工坊 | 预览和选择工作台外观 | 毕方公司项目，我仅负责推广 |
 | 每次做选题都要重新找资料、筛方向、整理结果 | [小燃选题员工](https://afdian.com/a/lydiahub2026) | 把重复的选题步骤交给固定流程，留下真正需要人判断的部分 | 查看介绍与领取 |
 | 询盘散在表格里，不知道先跟谁、还缺什么证据 | [Lydia 外贸系统](https://github.com/LydiaTools/lydia-foreign-trade-system) | 看清分级、缺失证据和下一步，再由人确认跟进 | 开源，本地运行 |
 | 买覆盖物、土壤或堆肥前，想把尺寸、体积和袋数算清楚 | [CoverCalc Pro](https://covercalcpro.com/#calculator) | 把量出的尺寸换成体积和袋数，下单前再核对一次 | 在线使用 / [开源工具包](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit) |
@@ -75,15 +75,13 @@
 
 **[打开在线计算](https://covercalcpro.com/#calculator)** · [查看开源工具包](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit)
 
-## 和毕方团队一起做的工具
+## 我负责推广的毕方公司产品
 
-有些卡点，需要和有经验的技术团队一起解决。我参与产品方向和海外用户体验，团队负责各自的技术实现与维护。
+- **BFTiles 窗口排布器：** 整理 Windows 多窗口与常用桌面布局。
+- **毕方内容生产助手：** 整理文章参考、草稿与人工检查流程。
+- **Codex 皮肤工坊：** 预览和选择 Codex 工作台外观。
 
-- **[BFTiles 窗口排布](https://github.com/mercedesbestsupplier-maker/BFTiles)**：让一屏多开的 Windows 窗口更有秩序，保存布局，下次继续用。公开产品介绍已上线，GitHub 安装包仍在验收。
-- **[毕方内容生产助手](https://github.com/mercedesbestsupplier-maker#products)**：先找对标，再选择内容生产的路径；CSDN 技术文章、百家号长文章、小红书图文笔记分别处理。Windows 完整流程仍在验收。
-- **[Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)**：每天都在用的工作界面，也可以更像自己。项目页有真实运行预览和领取入口。
-
-**[去 BFTools 主页，按工作场景选产品](https://github.com/mercedesbestsupplier-maker#products)**
+以上均为毕方 BFTOOLS 公司项目。我仅负责推广，开发、维护、测试、版本发布与资料公开范围由公司团队负责。产品当前功能与获取方式以公司正式发布的信息为准。
 
 ## 我做产品时看重的事
 
@@ -99,7 +97,7 @@
 
 基础工具会继续免费分享。想参加「别返工」内测，或需要定制、部署适配、数据迁移和长期维护，可以微信联系 **`lydiahub2026`**。Bug 和功能建议可以直接在对应项目提交 Issue。
 
-项目链接目前保留其实际仓库地址；这里是我的个人作品总入口。
+这里是我的个人作品总入口。个人开源项目保留源码入口；公司产品仅作用途介绍。
 
 ## English
 
@@ -113,9 +111,9 @@ I start with one specific problem, build something usable, and improve it with r
 - **[Say It Plainly](https://github.com/LydiaTools/shuorenhua/blob/main/README.en.md)** helps you understand a message and review a reply in your own words. Chinese interface; macOS release available.
 - **[Lydia Foreign Trade System](https://github.com/LydiaTools/lydia-foreign-trade-system/blob/main/docs/README.en.md)** helps you work through existing inquiries using evidence and a clear next action. Open-source; local setup.
 - **[CoverCalc Pro](https://covercalcpro.com/)** helps you calculate landscape material quantities before buying. Live website, with a public formula toolkit.
-- **[BFTools](https://github.com/mercedesbestsupplier-maker)** is the team I collaborate with on Windows window layouts, content production, and Codex workspace tools.
+- **BFTOOLS company products:** Windows window layout, article production, and Codex workspace appearance. My role is promotion; company development, maintenance, testing, and releases are handled by the company.
 
-Each project page explains its current platform and how to get started. For custom work or ongoing maintenance, contact me on WeChat: `lydiahub2026`.
+Each independent project page explains its platform and how to get started. For custom work on my own projects, contact me on WeChat: `lydiahub2026`. BFTOOLS company development and maintenance are handled by the company.
 
 </details>
 
